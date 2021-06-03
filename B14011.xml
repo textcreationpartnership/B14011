@@ -1,0 +1,1765 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mery play betwene Iohan Iohan the husbande, Tyb his wyfe, [and] syr Iha[n]n the preest</title>
+         </titleStmt>
+         <extent>Approx. 45KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14011</idno><idno type="EEBO-CITATION">99845901</idno>
+  <idno type="VID">173076</idno>
+  <idno type="EEBO-PROQUEST">2248524205</idno>
+  <idno type="STC">STC 13298</idno>
+  <idno type="STC">ESTC S110339</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845901e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14011)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 68:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mery play betwene Iohan Iohan the husbande, Tyb his wyfe, [and] syr Iha[n]n the preest</title>
+                  <author>Heywood, John, 1497?-1580?, attributed name.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>[Impryntyd by Wyllyam Rastell,,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>the .xii. day of February the yere of our lord.M.ccccc. and xxxiii] [1533]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Sometimes attributed to John Heywood.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="play">
+            <pb facs="tcp:173076:1"/>
+            <pb facs="tcp:173076:1"/>
+            <head>¶ A mery play betwene Iohan Iohan the husbande / Tyb his wyfe / &amp; syr Ihān the preest.</head>
+            <sp>
+               <speaker>¶ Iohan Iohan the husbande.</speaker>
+               <lg>
+                  <l>¶ God spede you maysters euerychone</l>
+                  <l>Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ye not whyther my wyfe is gone</l>
+                  <l>I pray god the dyuell take her</l>
+                  <l>For all that I do I can not make her</l>
+                  <l>But she wyll go a goddynge very myche</l>
+                  <l>Lyke an Anthony pyg with an olde wyche</l>
+                  <l>Whiche fedeth her about hyther and thyther</l>
+                  <l>But by our lady I wote not whyther</l>
+                  <l>But by gogg{is} blod / were she come home</l>
+                  <l>Vnto this my house / by our sady of crome</l>
+                  <l>I wolde bete her or that I drynke</l>
+                  <l>Bete her qd a? yea that she shall stynke</l>
+                  <l>And at euery stroke say her on the grounde</l>
+                  <l>And trayne her by the here about the house rounde</l>
+                  <l>I am euyn mad that I bete her not nowe</l>
+                  <l>But I shall rewarde her hardly well ynowe</l>
+                  <l>There is neuer a wyfe betwene heuen and hell</l>
+                  <l>Whiche was euer beten halfe so well</l>
+               </lg>
+               <lg>
+                  <l>¶ Beten qd a? yea but what and she therof dye</l>
+                  <l>Than I may chaunce to be hanged shortly</l>
+                  <l>And whan I haue beten her tyll she smoke</l>
+                  <l>And gyuen her many a. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. stroke</l>
+                  <l>Thynke ye that she wyll amende yet</l>
+                  <l>Nay by our lady the deuyll spede whyt</l>
+                  <l>Therfore I wyll not bete her at all</l>
+               </lg>
+               <lg>
+                  <l>¶ And shall I not bete her / no shall</l>
+                  <pb facs="tcp:173076:2"/>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>
+                  </l>
+                  <l>And kepeth not her house▪ as her duetie i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Shall I not bete her if she do so</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> by cokk{is} blood that shall I do</l>
+                  <l>I shall bete her and <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>w<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> her I trow</l>
+                  <l>That she shall beshyte the house <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> very wo</l>
+               </lg>
+               <lg>
+                  <l>¶ But yet I thynk what my neybour wyll say than</l>
+                  <l>He wyll say thus / whom chydest y<seg rend="sup">•</seg> Iohan Iohan</l>
+                  <l>Mary wyll I say / I chyde my curst wyfe</l>
+                  <l>The veryest drab that euer bare lyfe</l>
+                  <l>Whiche doth nothyng but go and come</l>
+                  <l>And I can not make her kepe her at home</l>
+                  <l>Than I thynke he wyll say by and̄ by</l>
+                  <l>Wa<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e her cote Iohan Iohan / and bete her hardely</l>
+                  <l>But than vnto hym myn answere shalbe</l>
+                  <l>The more I bete her the worse is she</l>
+                  <l>And wors and wors make her I shall</l>
+               </lg>
+               <lg>
+                  <l>¶ He wyll say than / bete her not at all</l>
+                  <l>And why shall I say / this wolde be wyst</l>
+                  <l>Is she not myne to chastice as I <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yst</l>
+               </lg>
+               <lg>
+                  <l>¶ But this is another poynt / worst of all</l>
+                  <l>The fo<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>{is} wyll mocke me / whan they here me brall</l>
+                  <l>But for all that shall I set therfore</l>
+                  <l>To chastyce my wyfe euer the more</l>
+                  <l>And to make her at home for to tary</l>
+                  <l>Is not that welldone / yes by saynt mary</l>
+                  <l>That is a poynt of an honest man</l>
+                  <l>For to bete his wyfe well nowe and than</l>
+               </lg>
+               <lg>
+                  <l>¶ Therfore I shall bete her / haue ye no drede</l>
+                  <l>And I ought to bete her tyll she be starke dede</l>
+                  <l>And why? by god bicause it is my pleasure</l>
+                  <l>And if I shulde suffre her / I make you sure</l>
+                  <l>Nought shuld̄e {pre}uayle me / nother staffe nor waster</l>
+                  <l>Within a whyle she wolde be my mayster</l>
+               </lg>
+               <lg>
+                  <l>¶ Therfore I shall bete her by cokkes mother</l>
+                  <l>Both on the tone syde and on the tother</l>
+                  <l>Before and behynde / nought shall be her bote</l>
+                  <l>From the top of the heed / to the sole of the fote</l>
+               </lg>
+               <lg>
+                  <l>¶ But masters for godd{is} sake do not entrete</l>
+                  <l>For her / whan that she shalbe bete</l>
+                  <l>But for godd{is} passion set me alone</l>
+                  <l>And I shall thwak her that she shall grone</l>
+                  <l>Wherfore I beseche you and hartely you pray</l>
+                  <l>And I beseche you say me not nay</l>
+                  <pb facs="tcp:173076:2"/>
+                  <l>But that I may beate her for this ones</l>
+                  <l>And I shall beate her by cokkes bones</l>
+                  <l>That she shall stynke lyke a pole kat</l>
+                  <l>But yet by gogg{is} body that nede nat</l>
+                  <l>For she wyll stynke without any betyng</l>
+                  <l>For euery nyght ones she gyueth me an hetyng</l>
+                  <l>From her issueth suche a stynkyng smoke</l>
+                  <l>That the sauour therof almost doth me choke</l>
+                  <l>But I shall bete her nowe without fayle</l>
+                  <l>I shall bete her toppe and tayle</l>
+                  <l>Heed / shulders / armes / legges / and all</l>
+                  <l>I shall bete her I trowe that I shall</l>
+                  <l>And by gogg{is} boddy I tell you trewe</l>
+                  <l>I shall bete her tyll she be blacke and blewe</l>
+               </lg>
+               <lg>
+                  <l>¶ But where the dyuell trowe ye she is gon</l>
+                  <l>I holde a noble she is with syr Iohan</l>
+                  <l>I fere I am begyled alway</l>
+                  <l>But yet in fayth I hope well nay</l>
+                  <l>Yet I almost enrage that I ne can</l>
+                  <l>Se the behauour of our gentylwoman</l>
+                  <l>And yet I thynke thyther as she doth go</l>
+                  <l>Many an honest wyfe goth thyther also</l>
+                  <l>For to make some pastyme and sporte</l>
+                  <l>But than my wyfe so ofte doth thyther resorte</l>
+                  <l>That I fere she wyll make me weare a fether</l>
+                  <l>But yet I nede not for to fere nether</l>
+                  <l>For he is her gossyp that is he</l>
+               </lg>
+               <lg>
+                  <l>¶ But abyde a whyle yet let me se</l>
+                  <l>Where the dyuell hath our gyssypry begon</l>
+                  <l>My wyfe had neuer chylde doughter nor son</l>
+               </lg>
+               <lg>
+                  <l>¶ Nowe if I forbede her that she go no more</l>
+                  <l>Yet wyll she go as she dyd before</l>
+                  <l>Dress wyll she chuse some other place</l>
+                  <l>And then the matter is in as yll case</l>
+               </lg>
+               <lg>
+                  <l>¶ But in fayth all these wordes be in wast</l>
+                  <l>For I thynke the matter is done and past</l>
+                  <l>And whan she cometh home she wyll begyn to chyde</l>
+                  <l>But she shall haue her payment styk by her syde</l>
+                  <l>For I shall order her for all her brawsyng</l>
+                  <l>That she shall repent to go a catter wawlyng</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Tyb</speaker>
+               <l>¶ Why whom wyst thou beate I say thou knaue</l>
+            </sp>
+            <sp>
+               <speaker>Ihān</speaker>
+               <l>¶ Who I Tyb / none so god me saue</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ ye<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I harde the say thou woldest one bete</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Mary wyfe it was stokfysshe in temmes strete</l>
+               <pb facs="tcp:173076:3"/>
+               <l>Whiche wyll be good meate agaynst sent</l>
+               <l>Why tyb what hadd̄est y<seg rend="sup">u</seg> thought y<seg rend="sup">t</seg> I had ment</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Mary me thought I harde the bawlyng</l>
+               <l>Wy<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thou neuer leue this wawlyng</l>
+               <l>Nowe the dyuell dost thou thy selfe behaue</l>
+               <l>Shall we euer haue this worke thou knaue</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ What wyfe / howe sayst y<seg rend="sup">u</seg>. was it well gest of me</l>
+               <l>That thou woldest be come home in safete</l>
+               <l>Assone as I had kendled a fyre</l>
+               <l>Come warme the swete tyb I the requyre</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ O Iohan Iohan, I am afrayd by this lyght</l>
+               <l>That I shalbe sore syk this nyght</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ By cokk{is} soule / nowe I dare say a swan</l>
+               <l>That she comes nowe streyght fro syr Iohan</l>
+               <l>For euer whan she hath fatched of hym a lyk</l>
+               <l>Than she comes home / and sayth she is syk</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ what sayst thou.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>Mary I say</l>
+               <l>It is mete for a woman to go play</l>
+               <l>Abrode in the towne for an houre or two</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ well gentylman / go to go to</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ well let <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o haue no more debate</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ If he do not fyght / chyde / and rate</l>
+               <l>Brause and fa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e / as one that were frantyke</l>
+               <l>There is nothyng that may hym lyke</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ If that the parysshe preest syr Iohan</l>
+               <l>Dyd not se her nowe and than</l>
+               <l>And gyue her absolution vpon a bed</l>
+               <l>For wo and payne / she wolde sone be deed</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ For godd{is} sake Ihān Iohan / do the not displease</l>
+               <l>Many atyme I am yll at ease</l>
+               <l>what thynkest nowe / am not I somwhat syk</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Nowe wolde to god and swete saynt Dyryk</l>
+               <l>That thou warte in the water vp to the throte</l>
+               <l>Or in a burnyng ouen red hote</l>
+               <l>To se and I wolde puff the out</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Nowe Iohan Iohan / to put the out of dout</l>
+               <l>Imagyn thou where that I was</l>
+               <l>Before I came home.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>My p<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ase</l>
+               <l>Thou wast prayenge in the churche of poules</l>
+               <l>Vpon thy knees for all chrysten soules</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Nay.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>¶ Than if thou wast not so holy</l>
+               <l>Shewe me where thou wast / and make no lye</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Truely Iohan Iohan we made a pye</l>
+               <l>I and my gossyp Margery</l>
+               <pb facs="tcp:173076:3"/>
+               <l>And our gossyp the preest syr Iohan</l>
+               <l>And my neybours yongest doughter An</l>
+               <l>The preest payde for the stuffe and the makyng</l>
+               <l>And Margery she payde for the bakyng</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ By kokk{is} sylly wound{is} that same is she</l>
+               <l>That is the most bawde hens to Couentre</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ What say you.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>¶ Mary answere me to this</l>
+               <l>Is not syr Iohan a good man / yes that he is</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ H<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tyb / if I shulde not greue the</l>
+               <l>I haue somwhat wherof I wolde meue the</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Well husbande / nowe I do coniect</l>
+               <l>That thou hast me somwhat in suspect</l>
+               <l>But by my soule / I neuer go to syr Iohan</l>
+               <l>But I fynde hym lyke an holy man</l>
+               <l>For eyther he is sayenge his deuotion</l>
+               <l>Or els he is goynge in {pre}cessyon</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Yea rounde about the bed doth he go</l>
+               <l>you two to gether and no mo</l>
+               <l>And for to fynysshe the {pre}cessyon</l>
+               <l>He lepeth vp and thou lyest downe</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ What sayst thou.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>Mary I say he doth well</l>
+               <l>For so ought a shepherde to do / as I harde tell</l>
+               <l>For the saluation of all his folde</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Iohan Iohan. What is it that thou wolde</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ By my soule I loue the too too</l>
+               <l>And I shall tell the or I further go</l>
+               <l>The pye that was made / I haue it nowe here</l>
+               <l>And therwith I trust we shall make good chere</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ By kokk{is} body that is very happy</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ But wotest who gaue it.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>What y<seg rend="sup">e</seg> dyuel rek I</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ By my fayth and I shall say trewe than</l>
+               <l>The dyuell take me and it were not syr Iohan</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ O holde the peas wyfe / and swere no more</l>
+               <l>But I beshrewe both your hartes therfore</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Yet {per}aduenture thou hast suspection</l>
+               <l>Of that that was neuer thought nor done</l>
+               <l>Tusshe wyfe / set all suche matters be</l>
+               <l>I loue the well though thou loue not me</l>
+               <l>But this pye doth nowe catche harme</l>
+               <l>Let vs set it vpon the harth to worme</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ Than let vs eate it as fast as we can</l>
+               <l>But bycause syr Iohan is so honest a man</l>
+               <l>I wolde that he shulde therof eate his part</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ That were reason I the ensure</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Than syns that it is thy pleasure</l>
+               <pb facs="tcp:173076:4"/>
+               <l>I pray the <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And pray hym come sup with vs to ny<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Shall <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hyther by kokk{is} soule I was a curst</l>
+               <l>Whan that I graunted to that worde furst</l>
+               <l>But syns I haue <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard it I dare not say nay</l>
+               <l>For than my wyfe and I shulde make a fray</l>
+               <l>But whan he is come. I swere by godd{is} mother</l>
+               <l>I wold gyue the dyuell y<seg rend="sup">•</seg>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to carry away y<seg rend="sup">•</seg> tother.</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ What sayst.</l>
+            </sp>
+            <sp>
+               <speaker>Io.</speaker>
+               <l>¶ Mary be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s my curate I say</l>
+               <l>My confessour and my frende alway</l>
+               <l>Therfore go thou and seke firm by and by</l>
+               <l>And tyll thou come agayne I wyll <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pe the pye</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Shall I go for hym? nay I shrewe <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> than</l>
+               <l>Go thou and seke as fast as thou can</l>
+               <l>And tell hym it.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>¶ Shall I do so</l>
+               <l>In fayth it is not mete for me to go</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ But thou shalte go tell hym for all that</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Than shall I tell hym wotest what</l>
+               <l>That thou desyrest hym to come make some chere</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Nay that thou desyrest hym to come sup here</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Nay by the rode wyfe / y<seg rend="sup">•</seg> shal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> haue the worshyp</l>
+               <l>And the thankes of thy geft that is thy gossyp</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Full ofte I se my hushande wyll me <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate</l>
+               <l>For this hether commyng of our gentyll cu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ what sayst Tyb let me here that agayne</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Mary I perceyue very playne</l>
+               <l>That thou hast syr Iohan somwhat insuspect</l>
+               <l>But by my soule as far as I coniect</l>
+               <l>He is vertuouse and full of charyte</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ In fayth all the towne knoweth better that he</l>
+               <l>Is a hore monger / a haunter of the <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ewes</l>
+               <l>An ypocrite / a knaue / that all men refuse</l>
+               <l>A lyer / a wretche / a maker of stryfe</l>
+               <l>Better than they knowe that thou art my good wyfe</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ What is that that thou hast sayde</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Mary I wolde haue the table set and layde</l>
+               <l>In this place or that I care not whether</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Than go to brynge the trestels hyther</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Abyde a whyle / let me put of my gown</l>
+               <l>But yet I am afrayde to lay it down</l>
+               <l>For I fere it shalbe sone stolen</l>
+               <l>And yet it may lye safe ynough vnstolen</l>
+               <l>It may lye well here and I lyst</l>
+               <l>But by cokk{is} soule here hath a dogge pyst</l>
+               <pb facs="tcp:173076:4"/>
+               <l>And if I shulde lay it on the harth bare</l>
+               <l>It myght hap to be burned or I were ware</l>
+               <l>Therfore I pray you take ye the payne</l>
+               <l>To kepe my gowne tyll I come agayne</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ But yet he shall not haue it by my say</l>
+               <l>He is so nere the dore he myght run away</l>
+               <l>But bycause that ye be trusty and sure</l>
+               <l>Ye shall kepe it and it be your pleasure</l>
+               <l>And because it is arayde at the skyrt</l>
+               <l>Whyle ye do nothyng skrape of the dyrt</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Lo nowe am I redy to go to syr Iohan</l>
+               <l>And byd hym come as fast as he can</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ We do so without ony taryeng</l>
+               <l>But I say harke / thou hast forgot one thyng</l>
+               <l>Set vp the table / and that by and by</l>
+               <l>Nowe go thy ways</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>¶ I go shortly</l>
+               <l>But se your candesstykk<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be not out of the way</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Come agayne and lay the table I lay</l>
+               <l>What me thynk{is} ye haue sone d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Nowe I pray god that his malediction</l>
+               <l>Lyght on my wyfe / and on the baulde preest</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Nowe go thy ways and hye the<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> seest</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ I pray to Christ / if my wyshe be no synne</l>
+               <l>That y<seg rend="sup">e</seg> preest may breke his neck whan he comes in</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Now cū agayn.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>What a myschefe wylt y<seg rend="sup">•</seg> fole</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ Mary I say brynge hether yerder s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ole</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Nowe go to / a lyttell wolde make me</l>
+               <l>For to say thus / a vengaunce take the</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ Nowe go to hym and tell hym playn</l>
+               <l>That tyll thou brynge hym / y<seg rend="sup">u</seg> wylt not come agayn</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ This pye doth borne here as it doth stande</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ Go washe me these two cuppes in my hande</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ I go with a myschyefe lyght on thy face</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ Go and byd hym hye hym a pace</l>
+               <l>And the whyle I shall all thynges amende</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ This pye burneth here at this ende</l>
+               <l>Vnderstandest thou.</l>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <l>¶ Go thy ways I say</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ I wyll go nowe as fast as I may</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ Now come ones agayne / I had forgot</l>
+               <l>Loke and there be ony ale in the pot</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Nowe a vengaunce and a very myschyefe</l>
+               <l>Lyght on the pylde prcest / and on my wyfe</l>
+               <l>On the pot / the ale / and on the table</l>
+               <l>The candyll / the pye / and all the table</l>
+               <pb facs="tcp:173076:5"/>
+               <l>On the trystels and on the s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ole</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as moche ado to please a curst fole</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Go thy ways nowe and tary no more</l>
+               <l>For I am a hundred very sore</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Mary I go.</l>
+            </sp>
+            <sp>
+               <speaker>¶ T.</speaker>
+               <l>but come ones agayne yet</l>
+               <l>Brynge hyther that breade lest I forget it</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ I wys it were tyme for to torne</l>
+               <l>The pye for ywrs it doth borne</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Lorde howe my husbande nowe doth patter</l>
+               <l>And of the pye styl doth clatter</l>
+               <l>Go nowe and byd hym come away</l>
+               <l>I haue byd the an hundred tymes to day</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ I wyll not gyue a strawe I tell you playne</l>
+               <l>If that the pye ware colde agayne</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ What art thou not gone yet out of this place</l>
+               <l>I had went thou haddest ben come agayne in y<seg rend="sup">•</seg> space</l>
+               <l>But by cokk{is} soule and I shulde do the ryght</l>
+               <l>I shulde breke thy knaues beed to nyght</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <lg>
+                  <l>¶ Nor than if my wyfe be set a chydyng</l>
+                  <l>It is tyme for me to go at her byddyng</l>
+                  <l>There is a prouerbe / whiche trewe nowe preueth</l>
+                  <l>He must nedes go that the dyuell dryueth</l>
+               </lg>
+               <lg>
+                  <l>¶ Now mayster curate may I come in</l>
+                  <l>At your chamber dore without ony syn</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>¶ Syr Iohan the preest.</speaker>
+               <l>¶ Who is there nowe that wolde haue me</l>
+               <l>What Iohan Iohan / what newes with the</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Mary syr to tell you shortly</l>
+               <l>My wyfe and I pray you hartely</l>
+               <l>And eke desyre you with all our myght</l>
+               <l>That ye wolde come and sup with vs to nyght</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ Ye must pardon me / in fayth I ne can</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Yes I desyre you good syr Iohan</l>
+               <l>Take payne this ones / and yet at the lest</l>
+               <l>If ye wyll do nought at my request</l>
+               <l>Yet do somwhat for the loue of my wyfe</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ I wyll not go for makyng of fity<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>But I shall tell the what thou shalte do</l>
+               <l>Thou shalt tary and sup with me or thou go</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Wyll ye not go than / why so</l>
+               <l>I pray you tell me / is there any dysdayne</l>
+               <l>Or ony enmyte betwene you twayne</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ In fayth to tell the betwene the and me</l>
+               <l>She is as wyfe a woman as any may be</l>
+               <pb facs="tcp:173076:5"/>
+               <l>I know it well / for I haue had the charge</l>
+               <l>Of her soule / and serchyd her conscyens at large</l>
+               <l>I neuer knew her / but honest and wyse</l>
+               <l>Without any yuyll / or any vyce</l>
+               <l>Saue one faut / I know in her no more</l>
+               <l>And because I rebuke her / now and then therfore</l>
+               <l>She is angre with me / and hath me in hate</l>
+               <l>And yet that that I do / I do it for your welth</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Now god yeld it yow / god master curate</l>
+               <l>And as ye do / so send you your helth</l>
+               <l>Ywys I am bound to you a plesure</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ Yet thou thynkyst amys peraduenture</l>
+               <l>That of her body she shuld not be a good woman</l>
+               <l>But I shall tell the what I haue done Iohan</l>
+               <l>For that matter / she and I be somtyme aloft</l>
+               <l>And I do lye vppon her / many a tyme and oft</l>
+               <l>To proue her / yet could I neuer espy</l>
+               <l>That euer any / dyd wors with her than I</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Syr that is the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est care I haue of nyne</l>
+               <l>Thankyd be god / and your good doctryne</l>
+               <l>But yf it please you / tell me the matter</l>
+               <l>And the debate betwene you and her</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ I shall tell the / but thou must kepe secret</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ As for that syr / I shall not let</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ I shall tell the now / the matter playn</l>
+               <l>She is angry with me / and hath me in dysdayn</l>
+               <l>Because that I / do her oft intyce</l>
+               <l>To do some penaunce / after myne aduyse</l>
+               <l>Because she / wyll neuer leue her wrawsyng</l>
+               <l>But alway with the / she is chydyng and brawlyng</l>
+               <l>And therfore I knowe / she hatyth me presens</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Nay in good feyth / sauyng your reuerens</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ I know very well she hath me in hate</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Nay / I dare swere for her master curate</l>
+               <l>Out was I not a very knaue</l>
+               <l>I thought surely / so god me saue</l>
+               <l>That he had louyd my wyfe / for to dyseyue me</l>
+               <l>And now he quytyth hym self / and here I se</l>
+               <l>He doth as much / as he may for his lyfe</l>
+               <l>To stynk the debate / betwene me and my wyfe</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ If euer she dyd or though me any yll</l>
+               <l>Now I forgyue her with me fre wyll</l>
+               <l>Therfore Iohan Iohan / now get the home</l>
+               <l>And thank thy wyfe / and say I wyll not come</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:173076:6"/>
+               <speaker>Ihān.</speaker>
+               <l>¶ yet let me know now good syr Iohan</l>
+               <l>Where ye wyll go to supper than</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ I care not greatly / and I tell the</l>
+               <l>On saterday last / I and .ii. or thre</l>
+               <l>Of my frendes made an appoyntement</l>
+               <l>And agaynst this nyght we dyd assent</l>
+               <l>That in a place we wolde sup together</l>
+               <l>And one of them sayd he wold brynge thether</l>
+               <l>Ale and bread / and for my parte I</l>
+               <l>Sayd that I wolde gyue them a pye</l>
+               <l>And there I gaue them money for the makynge</l>
+               <l>And an other sayd she wolde pay for the bakyng</l>
+               <l>And so we purpose to make good chere</l>
+               <l>For to dryue away care and thought</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Than I pray you syr tell me here</l>
+               <l>whyther shulde all this geare be brought</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ By my fayth and I shulde not lye</l>
+               <l>It shulde be delyuered to thy wyfe the pye</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ By god it is at my house standyng by the fyre</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ Who bespake that pye / I the requyre</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ By my <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>yth and I shall not lye</l>
+               <l>It was my wyfe and her gossyp Margerye</l>
+               <l>And your good masshyp called syr Iohan</l>
+               <l>And my neybours yongest doughter An</l>
+               <l>Your masshyp payde for the stuffe and makyng</l>
+               <l>And Margery she payde for the bakyng</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ If thou wylte haue me nowe / in faithe I wyll go</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Ye mary I beseche your massbyp do so</l>
+               <l>My wyfe taryeth for none but vs twayne</l>
+               <l>She thynketh longe or I come agayne</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ Well nowe if she chyde me in thy presens</l>
+               <l>I wylbe content and take in pacyens</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ By cokk{is} soule and she ones chyde</l>
+               <l>Or frowne / or soure / or loke asyde</l>
+               <l>I shall brynge you a staffe as myche as I may heue</l>
+               <l>Than bete her and spare not / I gyue you good leue</l>
+               <l>To chastyce her for her shreude <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arpeng</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ The deuyll take the for thy longe taryeng</l>
+               <l>Here is not a whyt of water by my gowne</l>
+               <l>To washe our hand{is} / that we myght syt downe</l>
+               <l>Go and hye the as fast as a snayle</l>
+               <l>And with fayre water fyll me this payle</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ I thanke our lorde of his good grace</l>
+               <l>That I can not rest longe in a place</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:173076:6"/>
+               <speaker>Tyb.</speaker>
+               <l>¶ Go fetche water I say at a worde</l>
+               <l>For it is tyme the pye were on the borde</l>
+               <l>And go with a vengeance / &amp; say thou art prayde</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ A good gossyp / is that well sayde</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Welcome myn owne swete harte</l>
+               <l>We shall make some chere or we departe</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Cokk{is} soule / loke howe he approcheth here</l>
+               <l>Vnto my wyfe / this abateth my chere</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ By god I wolde ye had harde the tryfyls</l>
+               <l>The toys / the mokkes / the fables / and the nyfyls</l>
+               <l>That I made thy husbāde to beleue and thynke</l>
+               <l>Thou myghtest as well in to the erthe synke</l>
+               <l>As thou coudest forbeare laughyng any whyle</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ I pray the let me here parte of that wyle</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ Mary I shall tell the as fast as I can</l>
+               <l>But <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s no more / yonder cometh thy good man</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Cokk{is} soule what haue we here</l>
+               <l>As far as I sawe / he drewe very nere</l>
+               <l>Vnto my wyfe.</l>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <l>What art come so sone</l>
+               <l>Gyue vs water to wasshe nowe / haue done</l>
+            </sp>
+            <stage>¶ Than he bryngeth the payle empty</stage>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ By kockes soule it was euen nowe full to y<seg rend="sup">e</seg> brynk</l>
+               <l>But it was out agayne or I coude thynke</l>
+               <l>Wherof I marueled by god almyght</l>
+               <l>And than I loked betwene me and the lyght</l>
+               <l>And I spyed a clyfte / bothe large and wyde</l>
+               <l>To wyfe / here it is on the <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>one syde</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ why dost not st<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p it.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>¶ why howe shall I do it</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ Take a ly<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e wax.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>¶ Howe shal I come to it</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ Mary here be .ii. wax candyls I say</l>
+               <l>whiche my gossyp margery gaue me yesterday</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Tussht let hym alone / for by the rode</l>
+               <l>It is pyte to helpe hym or do hym good</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ what Ihān Ihān / canst thou make no shyfte</l>
+               <l>Take this waxe and stop ther with the clyfte</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ This waxe is as harde as any wyre</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Thou must chafe it a l;ytle at the fyre</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ She y<seg rend="sup">•</seg> broughte the these waxe candelles twayne</l>
+               <l>She is a good companyon certayn</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ what was it not my gossyp margery</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ Yes she is a blessed woman surely</l>
+            </sp>
+            <sp>
+               <speaker>tyb.</speaker>
+               <l>¶ Nowe wolde god I were as good as she</l>
+               <l>For she is vertuous and full of charyte</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Nowe so god helpe me / and by my holydome</l>
+               <pb facs="tcp:173076:7"/>
+               <l>She is the erranst baud betwene this and Rome</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ What sayst.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>¶ Mary I chafe the wax</l>
+               <l>And I chafe it so hard that my fyngers krakk{is}</l>
+               <l>But take vp this py / that I here <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>And it stand long<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wyll borne</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> but thou must chefe the wax I say</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Byd hym syt down I the pray</l>
+               <l>Syt down good syr Iohan I you requyre</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Go I say and chafe the wax by the fyre</l>
+               <l>Whyle that we sup / syr Ihān and I</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ And how now / what wyll ye do with the py</l>
+               <l>Shall I not ete therof / a morsell</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Go and chafe the wax, whyle thou art well</l>
+               <l>And let vs haue no more pratyng thus</l>
+            </sp>
+            <sp>
+               <speaker>s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. I.</speaker>
+               <l>¶ Benedi<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>¶ Do<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s.</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Now go chafe the wax with a myschyfe</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ What I come to blysse the bord swete wyfe</l>
+               <l>It is my custome now and than</l>
+               <l>Mych good do it you / master syr Ihān</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ To chafe the wax and here no longer tary</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ And is not this a very purgatory</l>
+               <l>To se folk{is} ete / and may not ete a byt</l>
+               <l>By kokk{is} soule / I am a very w<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>k</l>
+               <l>This payle here / nowe vengaunce take it</l>
+               <l>Now my wyfe gyueth me a proud mok</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ what dost.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>¶ Mary I chafe the wax here</l>
+               <l>And I ymagyn / to make you good chere</l>
+               <l>That a vengaunce take you / both as ye syt</l>
+               <l>For I know well / I shall not ete a byt</l>
+               <l>But yet in feyth / yf I myght ete one morsell</l>
+               <l>I wold thynk the matter went very well</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ Gossyp Ihān Ihān / now mych good do it you</l>
+               <l>What chere make you / there by the fyre</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Master {per}son / I thank yow now</l>
+               <l>I fare well mow / after myne own desyre</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ What dost Ihān Ihān / I the requyre</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ I chafe the wax here by the fyre</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Here in good drynk / and here is a good py</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ We f<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r? very well / thankyd be our lady</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Loke how the kokold chafyth the wax that is hard</l>
+               <l>And for his lyfe / daryth not loke hetherward</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ What doth my gossyp.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>¶ I chafe the wax</l>
+               <l>And I chafe it so hard / that my fyngers krakk{is}</l>
+               <l>And eke the smoke / puttyth out my eyes two</l>
+               <pb facs="tcp:173076:7"/>
+               <l>I hu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he my face / and ray my clothye also</l>
+               <l>And yet I dare nat say one word</l>
+               <l>And they syt laughyng / yender at the bord</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Now by my trouth / it is a prety <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ape</l>
+               <l>For a wyfe / to make her husband her ape</l>
+               <l>Loke of Ihān Ihān / which maketh hard shyft</l>
+               <l>To chafe the wax / to stop therwith the clyft</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Ye that a vengeaunce / take ye both two</l>
+               <l>Both hym and the / and the and hym also</l>
+               <l>And that ye may choke / with the same mete</l>
+               <l>At the furst mursell / that ye do ete</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Of what thyng now dost thou clatter</l>
+               <l>Ihān Ihān / or wherof dost thou patter</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ I chafe the wax / and make hard shyft</l>
+               <l>To stop her with / of the payll the ryftt</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ So must he do Ihān Ihān / by my father kyn</l>
+               <l>That is bound of wedlok in the yoke</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Loke how the py<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d preest crammyth in</l>
+               <l>That wold to god / he myght therwith choke</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Now master {per}son / pleasyth your goodnes</l>
+               <l>To tell vs some tale / of myrth or sadnes</l>
+               <l>For our pastyme / in way of communycacyon</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ I am content to do it / for our recreacyon</l>
+               <l>And of .iii. myracles I shall to you say</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ What / must I chafe the wax all day</l>
+               <l>And stond here / rostyng by the fyre</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ Thou must do somwhat at thy wyues desyre</l>
+               <lg>
+                  <l>¶ I know a man which weddyd had a wyfe</l>
+                  <l>As fayre a woman / as euer bare lyfe</l>
+                  <l>And within a senyght after / ryght sone</l>
+                  <l>He went <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e and se / and left her alone</l>
+                  <l>And taryed there / about a .vii. yere</l>
+                  <l>And as he cam home ward / he had a heuy chere</l>
+                  <l>For it was told hym / that she was in heuen</l>
+                  <l>But when that he comen home agayn was</l>
+                  <l>He found his wyfe / and with her chyldren seuen</l>
+                  <l>Whiche she had had / in the mene space</l>
+                  <l>Yet had she not had / so many by thre</l>
+                  <l>Yf she had not had the help of me</l>
+                  <l>Is not this a myracle / yf euer were any</l>
+                  <l>That this good wyfe / shuld haue chyldren so many</l>
+                  <l>Here in this town / whyle her husband shuld be</l>
+                  <l>Beyand the se / in a farre contre</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Now in good foth / this is a wonderous myracle</l>
+               <pb facs="tcp:173076:8"/>
+               <l>But for your labour I wolde that your ta<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le</l>
+               <l>Were in a sh<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g water well s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Peace I say▪ thou sette<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the worde of god</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ Another myracle eke I shall you say</l>
+               <l>Of a woman whiche that many a day</l>
+               <l>Did <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wedded and in all that season</l>
+               <l>She and no chylde / no<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her doughter nor son</l>
+               <l>Wherfore to saynt Modwin she went on pilg<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>image</l>
+               <l>And offered there a sy<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> pyg▪ as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the vsage</l>
+               <l>Of the wyn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s that in London dwell</l>
+               <l>And to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the vertue therof truly to tell</l>
+               <l>Within a moneth after ryght shortly</l>
+               <l>She was delyuered of a chylde as moche as I</l>
+               <l>How say you is not this myracle wonderous</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Yes in good foth <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it is maruelous</l>
+               <l>But surely after myn opynyes</l>
+               <l>That chylde was nother doughter nor son</l>
+               <l>For certaynly and I be not begylde</l>
+               <l>She was delyuered of a knaue chylde</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Peas I say for godd{is} passyon</l>
+               <l>Thou <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>est syr Iohans co<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ation</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ The thyrde myracle also is this</l>
+               <l>I knewe another woman eke▪ wys</l>
+               <l>Whiche was wedded &amp;; within .v. monthis after</l>
+               <l>She was delyuered of a fayre doughter</l>
+               <l>As well formed in euery membre &amp; ioynt</l>
+               <l>And as {per}fyte in euery poynt</l>
+               <l>As though she had gone .v. monthis full to thende</l>
+               <l>Lo here is .v. monthis of aduantage</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ A wonderous myracle so god me mende</l>
+               <l>I wolde eche wyfe that is bounde in maryage</l>
+               <l>And that is wedded here within this place</l>
+               <l>Myght haue as quicke spede in euery suche case</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ forsoth syr Iohan, yet for all that</l>
+               <l>I haue sene the day that pus my cat</l>
+               <l>Hath had in a yere kyttyns eyghtene</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Ye tyb my wyfe / and that haue I sene</l>
+               <l>But howe say you syr Ihān / was it good your pye</l>
+               <l>The dyuell the morsell / that therof eate I</l>
+               <l>By the good lorde this is a pyteous warke</l>
+               <l>But nowe I se well the olde prouerbe is treu</l>
+               <l>The paryshe preest forgetteth y<seg rend="sup">t</seg> euer he was clarke</l>
+               <l>But syr Ihān doth not remembre you</l>
+               <l>Now I was your clerke / &amp; holpe you masse to syng</l>
+               <pb facs="tcp:173076:8"/>
+               <l>And hysde the hasyn alway at the offryng</l>
+               <l>Ye neuer had halfe so good a clothe as I</l>
+               <l>But not withstankyng all this nowe out pye</l>
+               <l>Is eaten vp / there is not lefte a byt</l>
+               <l>And you two together there do syt</l>
+               <l>Eatynge and drynkynge at your owne desire</l>
+               <l>And I am Iohan Ihān / which must stōde by y<seg rend="sup">e</seg> fyre</l>
+               <l>Chafyng the wax / and dare none other wyse do</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ And shall we alway syt here styll we two</l>
+               <l>y<seg rend="sup">•</seg> were to mych.</l>
+            </sp>
+            <sp>
+               <speaker>T.</speaker>
+               <l>¶ then ryse we out of this place</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ And kys me than in the stede of grace</l>
+               <l>And fare well <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eman and my loue so dere</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Cokk{is} body this waxe it waxte colde agayn here</l>
+               <l>But what shall I anone go to bed</l>
+               <l>And eate nothyng nother meate nor brede</l>
+               <l>I haue not be wont to haue suche for?</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Why were ye not serued there as ye ore</l>
+               <l>Chafyng the waxe / standyng by the fyre</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Why what mete gaue ye me / I you requyre</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ wast thou not serued / I pray the hertely</l>
+               <l>Both with the brede / the ale / and the pye</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ No syr I had none of that fare.</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ why were ye not serued there as ye ore</l>
+               <l>Standyng by the fyre chafyng the waxe</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Lo here be many tryfyls and knakk{is}</l>
+               <l>By kokk{is} soule they wene I am other <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ And had ye no meate Iohan Iohan no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ No tyb my wyfe / I had not a whyt</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ what not a morsell.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>No not one byt</l>
+               <l>For honger I trowe I shall fall in a <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wne</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ O that were pyte / I swere by my crowne</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ But is it trewe.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>Ye for a surete</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Dost thou ly.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>No so mo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e I <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Hast thou had nothyng.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>No not a byt</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Hast thou not dronke.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>No not a whyt</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ where wast thou.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>By the fyre I dyd s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ande</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ what dydyst.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>I chafed this waxe in my hande</l>
+               <l>where as I knewe of wedded men the payne</l>
+               <l>That they haue / and yet dare not complayne</l>
+               <l>For the smoke / put out my eyes two</l>
+               <l>I burned my face / and rayde my clothes also</l>
+               <l>Mendyng the payle / whiche to so rotten and olde</l>
+               <l>That it wyll not skant together holde</l>
+               <l>And syth it is so / and syns that yet wayn</l>
+               <pb facs="tcp:173076:9"/>
+               <l>Wold gyue me no meate / for my suffysaunce</l>
+               <l>By kok{is} soule I wyll take no lenger payn</l>
+               <l>Ye shall do all your self / With a very vengaunce</l>
+               <l>For me and take thou there thy payle now</l>
+               <l>And yf thou canst mend it let me se how</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ A horson knaue hast thou brok my payll</l>
+               <l>Thou shall repent / by kok{is} sylly nayll</l>
+               <l>Rech me my dystaf / or my clyppyng shery<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>I shall make the blood conne about his e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ys</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Nay stand styll drab / I say and come no n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re</l>
+               <l>For by kokk{is} blood / yf thou come here</l>
+               <l>Or yf thou onys styr / toward this place</l>
+               <l>I shall throw this shouyll full of colye in thy face</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ Ye horson dryuyll / get the out of my dore</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ Nay get thy out of my house / thou pres{is} bore</l>
+            </sp>
+            <sp>
+               <speaker>syr. I.</speaker>
+               <l>¶ Thou lyest horson kokold / euyn to thy face</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ And thou lyest pyld preest / withh an euyll grace</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ And y<seg rend="sup">•</seg> lyest.</l>
+            </sp>
+            <sp>
+               <speaker>I.</speaker>
+               <l>¶ &amp; y<seg rend="sup">•</seg> lyest▪</l>
+            </sp>
+            <sp>
+               <speaker>syr.</speaker>
+               <l>¶ &amp; y<seg rend="sup">•</seg> lyest agayn</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ By kokk{is} soule horson preest / thou shall be slayn</l>
+               <l>Thou hast eate our pye / and gyue me nought</l>
+               <l>By kokkes blod it shalbe full derely bought</l>
+            </sp>
+            <sp>
+               <speaker>Tyb.</speaker>
+               <l>¶ At hym syr Iohan / or els god gyue the sorow</l>
+            </sp>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ &amp; haue at your hore &amp; these / saynt gro<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge to bo<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+            </sp>
+            <stage>
+               <l>¶ Here they fyght by the <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rys a whyle &amp; than</l>
+               <l>the preest and the wyfe go out of the place.</l>
+            </stage>
+            <sp>
+               <speaker>Ihān.</speaker>
+               <l>¶ A sy<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s I haue payd some of them euen as I lyst</l>
+               <l>They haue borne / many a blow with my fyst</l>
+               <l>I thank god / I haue walkyd them well</l>
+               <l>And dryuen them hens / but yet can ye tell</l>
+               <l>Whether they be go / for by god I fere me</l>
+               <l>That they be gon together he and she</l>
+               <l>Vnto his chamber / and perhappes she wyll</l>
+               <l>Spyte of my hart / tary there styll</l>
+               <l>And peraduenture / there he and she</l>
+               <l>Wyll make me cokold / euyn to anger me</l>
+               <l>And then had I a pyg / in the <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oy<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s pany<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Therfore by god / I wyll hye me thy d<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>To se yf they do me any v<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y</l>
+               <l>And thus face well this noble company.</l>
+            </sp>
+            <trailer>¶ Fins.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Impryntyd by Wyllyam Rastell / the .xii. day of February the yere of our lord .M.ccccc. and .xxxiii.</p>
+            <p>¶ Cum priuilegio.</p>
+            <pb facs="tcp:173076:9"/>
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
